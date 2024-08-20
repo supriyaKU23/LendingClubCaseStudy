@@ -7,7 +7,7 @@ application, the company has to decide for loan approval based on the applicantâ
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [References](#references)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -41,9 +41,8 @@ application, the company has to decide for loan approval based on the applicantâ
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by referring to https://jovian.com/vijay-grg/lending-club-case-study-vijay-garg-santhosh-ankam#C73
+## References
+https://jovian.com/vijay-grg/lending-club-case-study-vijay-garg-santhosh-ankam#C73
 
 
 ## Contact
